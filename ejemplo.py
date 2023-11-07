@@ -1,3 +1,2 @@
 name = 5
-print(name
-)
+print(name)
